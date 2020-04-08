@@ -11,11 +11,11 @@ To explain the human stories and rationale behind this project, we may trace bac
 
 #### Origin I: the Story of W
 
-In the early 1980s, W, who was in his early teens, encountered the then legendary Apple II, and learned the Logo (turtle graphics) and BASIC programming languages, in a remote town S near Penang, Malaysia, which curiously hosted many multinational manufacturing plants, such as the big 4 -- Intel, HP, Motorola,  Bosch -- ever since the bygone Cold War period, perhaps as an technology outpost of the First World camp.
+In the early 1980s, W, aChinese by ancestral origin, who was in his early teens, encountered the then legendary Apple II, and learned the Logo (turtle graphics) and BASIC programming languages, in a remote town S near Penang, Malaysia, which curiously hosted many multinational manufacturing plants, such as the big 4 -- Intel, HP, Motorola,  Bosch -- ever since the bygone Cold War period, perhaps as an technology outpost of the First World camp.
 
-As such, like many little towns near Penang, the biggest international element in town S are perhaps the employees of these multinational corporations (MNC), and have since become a multi generational phenomenon.
+As such, like many little towns near Penang, the biggest international element in town S are perhaps the employees of these multinational corporations (MNC), and have since become a multi generational phenomenon. This was perhaps a crucial step in securing the loyalty of the Chinese Malaysians to the anti-Communist government, as throughout the 1950s to 1970s, many of the fathers, uncles and brothers of these same MNC employees were either directly involved in Communist armed forces or as sympathizers.
 
-And an out of print algebra text book passed on to W via relatives, printed in India, as was the earlier colonial practice.
+To W, the biggest international element in his life then, besides the programming languages that he learned notwithstanding his peers, and an IBM PC XT clone made in Taiwan purchased with a significant portion of family savings, was an out of print algebra text book passed on to W via relatives, printed in India, as was the earlier colonial practice.
 
 Cold War historians might be interested in this period, as W was to live through the 1989 upheavals in China and Soviet Union, and later the birth of European Union, and voted in UK election that ushered in Tony Blair's premiership.
 
