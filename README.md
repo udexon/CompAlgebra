@@ -1,5 +1,11 @@
-# CompAlgebra
-Computer Algebra
+# Project CompAlgebra
+- Putting Computer Algebra into Schools Worldwide by 2030
+<hr>
+
+1. Origin I: the Story of W
+2. From Logo to SymEngine
+
+
 
 http://spmmathematics.blog.onlinetuition.com.my/
 
