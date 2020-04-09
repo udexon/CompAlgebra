@@ -4,8 +4,9 @@
 
 <hr>
 
-1. Origin I: the Story of W
-2. From Logo to SymEngine
+1. [Phos Metashellet](https://github.com/udexon/Metashellet): A Forth derived Reverse Polish Notation shell for metaprogramming, embeddable in any program, any programming language and any operting system.
+2. Origin I: the Story of W
+3. [From Logo to SymEngine](https://github.com/udexon/CompAlgebra/blob/master/Logo_to_SymEngine.md)
 
 
 
