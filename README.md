@@ -1,5 +1,7 @@
 # Project CompAlgebra
 - Putting Computer Algebra into Schools Worldwide by 2030
+
+
 <hr>
 
 1. Origin I: the Story of W
