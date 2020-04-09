@@ -5,7 +5,7 @@
 <hr>
 
 1. [Phos Metashellet](https://github.com/udexon/Metashellet): A Forth derived Reverse Polish Notation shell for metaprogramming, embeddable in any program, any programming language and any operting system.
-2. Origin I: the Story of W
+2. [Origin I: the Story of W](https://github.com/udexon/CompAlgebra#origin-i-the-story-of-w)
 3. [From Logo to SymEngine](https://github.com/udexon/CompAlgebra/blob/master/Logo_to_SymEngine.md)
 
 
@@ -17,6 +17,7 @@ If we were to succeed in reforming school curricula around the world in mathemat
 (Characters and places in the following stories have been anonymized for privacy.)
 
 To explain the human stories and rationale behind this project, we may trace back to the early school experience of some of our project members.
+
 
 #### Origin I: the Story of W
 
